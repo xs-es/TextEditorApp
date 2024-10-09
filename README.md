@@ -1,0 +1,2 @@
+# TextEditorXS
+ Auto_Format

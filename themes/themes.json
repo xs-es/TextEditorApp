@@ -1,0 +1,967 @@
+{
+    "theme": "professional",
+    "properties": {
+        "background": "#ffffff",
+        "fontColor": "#000000",
+        "titleFont": "Times New Roman",
+        "titleSize": 24,
+        "subtitleFont": "Times New Roman",
+        "subtitleSize": 18,
+        "fontFamily": "Times New Roman",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "legal",
+    "properties": {
+        "background": "#f5f5f5",
+        "fontColor": "#000000",
+        "titleFont": "Georgia",
+        "titleSize": 24,
+        "subtitleFont": "Georgia",
+        "subtitleSize": 18,
+        "fontFamily": "Georgia",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "nature",
+    "properties": {
+        "background": "#c8e6c9",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "fun",
+    "properties": {
+        "background": "#ffccbc",
+        "fontColor": "#000000",
+        "titleFont": "Comic Sans MS",
+        "titleSize": 24,
+        "subtitleFont": "Comic Sans MS",
+        "subtitleSize": 18,
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "dark",
+    "properties": {
+        "background": "#333333",
+        "fontColor": "#ffffff",
+        "titleFont": "Arial Black",
+        "titleSize": 24,
+        "subtitleFont": "Arial Black",
+        "subtitleSize": 18,
+        "fontFamily": "Arial Black",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "light",
+    "properties": {
+        "background": "#f0f0f0",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "vibrant",
+    "properties": {
+        "background": "#ff69b4",
+        "fontColor": "#ffffff",
+        "titleFont": "Impact",
+        "titleSize": 24,
+        "subtitleFont": "Impact",
+        "subtitleSize": 18,
+        "fontFamily": "Impact",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "retro",
+    "properties": {
+        "background": "#e6e6e6",
+        "fontColor": "#000000",
+        "titleFont": "Courier New",
+        "titleSize": 24,
+        "subtitleFont": "Courier New",
+        "subtitleSize": 18,
+        "fontFamily": "Courier New",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "minimal",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Palatino Linotype",
+        "titleSize": 24,
+        "subtitleFont": "Palatino Linotype",
+        "subtitleSize": 18,
+        "fontFamily": "Palatino Linotype",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "bold",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Book Antiqua",
+        "titleSize": 24,
+        "subtitleFont": "Book Antiqua",
+        "subtitleSize": 18,
+        "fontFamily": "Book Antiqua",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "playful",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Garamond",
+        "titleSize": 24,
+        "subtitleFont": "Garamond",
+        "subtitleSize": 18,
+        "fontFamily": "Garamond",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "sophisticated",
+    "properties": {
+        "background": "#d3d3d3",
+        "fontColor": "#000000",
+        "titleFont": "Century Gothic",
+        "titleSize": 24,
+        "subtitleFont": "Century Gothic",
+        "subtitleSize": 18,
+        "fontFamily": "Century Gothic",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "whimsical",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Lucida Sans Unicode",
+        "titleSize": 24,
+        "subtitleFont": "Lucida Sans Unicode",
+        "subtitleSize": 18,
+        "fontFamily": "Lucida Sans Unicode",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "modern",
+    "properties": {
+        "background": "#f0f0f0",
+        "fontColor": "#000000",
+        "titleFont": "MS Sans Serif",
+        "titleSize": 24,
+        "subtitleFont": "MS Sans Serif",
+        "subtitleSize": 18,
+        "fontFamily": "MS Sans Serif",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "classic",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "MS Serif",
+        "titleSize": 24,
+        "subtitleFont": "MS Serif",
+        "subtitleSize": 18,
+        "fontFamily": "MS Serif",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "futuristic",
+    "properties": {
+        "background": "#b3acf2",
+        "fontColor": "#ffffff",
+        "titleFont": "System",
+        "titleSize": 24,
+        "subtitleFont": "System",
+        "subtitleSize": 18,
+        "fontFamily": "System",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "rustic",
+    "properties": {
+        "background": "#e4d6f5",
+        "fontColor": "#000000",
+        "titleFont": "MS UI Gothic",
+        "titleSize": 24,
+        "subtitleFont": "MS UI Gothic",
+        "subtitleSize": 18,
+        "fontFamily": "MS UI Gothic",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "urban",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "vintage",
+    "properties": {
+        "background": "#e6e6e6",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "winter",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "spring",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Times New Roman",
+        "titleSize": 24,
+        "subtitleFont": "Times New Roman",
+        "subtitleSize": 18,
+        "fontFamily": "Times New Roman",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "summer",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Georgia",
+        "titleSize": 24,
+        "subtitleFont": "Georgia",
+        "subtitleSize": 18,
+        "fontFamily": "Georgia",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "autumn",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "monochromatic",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Comic Sans MS",
+        "titleSize": 24,
+        "subtitleFont": "Comic Sans MS",
+        "subtitleSize": 18,
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "pastel",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial Black",
+        "titleSize": 24,
+        "subtitleFont": "Arial Black",
+        "subtitleSize": 18,
+        "fontFamily": "Arial Black",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "neon",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "gothic",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "cyberpunk",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Times New Roman",
+        "titleSize": 24,
+        "subtitleFont": "Times New Roman",
+        "subtitleSize": 18,
+        "fontFamily": "Times New Roman",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "steampunk",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Georgia",
+        "titleSize": 24,
+        "subtitleFont": "Georgia",
+        "subtitleSize": 18,
+        "fontFamily": "Georgia",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "artdeco",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "minimalist",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Comic Sans MS",
+        "titleSize": 24,
+        "subtitleFont": "Comic Sans MS",
+        "subtitleSize": 18,
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "luxury",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial Black",
+        "titleSize": 24,
+        "subtitleFont": "Arial Black",
+        "subtitleSize": 18,
+        "fontFamily": "Arial Black",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "industrial",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "retrofuture",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "zen",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial Black",
+        "titleSize": 24,
+        "subtitleFont": "Arial Black",
+        "subtitleSize": 18,
+        "fontFamily": "Arial Black",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "futurism",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Comic Sans MS",
+        "titleSize": 24,
+        "subtitleFont": "Comic Sans MS",
+        "subtitleSize": 18,
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "candy",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "neonlights",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "glow",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial Black",
+        "titleSize": 24,
+        "subtitleFont": "Arial Black",
+        "subtitleSize": 18,
+        "fontFamily": "Arial Black",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "aurora",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Comic Sans MS",
+        "titleSize": 24,
+        "subtitleFont": "Comic Sans MS",
+        "subtitleSize": 18,
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "cosmic",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "galaxy",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "stellar",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial Black",
+        "titleSize": 24,
+        "subtitleFont": "Arial Black",
+        "subtitleSize": 18,
+        "fontFamily": "Arial Black",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "space",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Comic Sans MS",
+        "titleSize": 24,
+        "subtitleFont": "Comic Sans MS",
+        "subtitleSize": 18,
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "ocean",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Tahoma",
+        "titleSize": 24,
+        "subtitleFont": "Tahoma",
+        "subtitleSize": 18,
+        "fontFamily": "Tahoma",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "forest",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Verdana",
+        "titleSize": 24,
+        "subtitleFont": "Verdana",
+        "subtitleSize": 18,
+        "fontFamily": "Verdana",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "desert",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "mountain",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "city",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "night",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "day",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "morning",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "afternoon",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "evening",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "dawn",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "dusk",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "twilight",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "sunset",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "sunrise",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "midnight",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "noon",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "goldenhour",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "bluehour",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "magic",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "dreamy",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "whimsy",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "fairy",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "mythic",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "legendary",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "epic",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "heroic",
+    "properties": {
+        "background": "#e0e0e0",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "victorious",
+    "properties": {
+        "background": "#f2f2f2",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "triumphant",
+    "properties": {
+        "background": "#e6d8c3",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "celestial",
+    "properties": {
+        "background": "#f8e231",
+        "fontColor": "#000000",
+        "titleFont": "Arial",
+        "titleSize": 24,
+        "subtitleFont": "Arial",
+        "subtitleSize": 18,
+        "fontFamily": "Arial",
+        "fontSize": 14
+    }
+},
+{
+    "theme": "divine",
+    "properties": {
+        "background": "#e0e0e0",
+}
